@@ -1,0 +1,9 @@
+
+const token = ''
+
+module.exports ={
+    token,
+    userId: 123,
+    apiUrl: `https://api.telegran.org/bot${token}`,
+    apiFileUrl: `https://api.telegran.org/file/bot${token}`
+}
