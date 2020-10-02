@@ -1,2 +1,2 @@
 ## Chatbot para Telegram
-## feito com nodejs ultilizando telegraf
+## feito com nodejs utilizando telegraf
